@@ -1,0 +1,15 @@
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.csproj.AssemblyReference.cache
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.AssemblyInfoInputs.cache
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.AssemblyInfo.cs
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.csproj.CoreCompileInputs.cache
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\bin\Debug\net6.0\польская тема.exe
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\bin\Debug\net6.0\польская тема.deps.json
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\bin\Debug\net6.0\польская тема.runtimeconfig.json
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\bin\Debug\net6.0\польская тема.dll
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\bin\Debug\net6.0\польская тема.pdb
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.dll
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\refint\польская тема.dll
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.pdb
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\польская тема.genruntimeconfig.cache
+C:\Users\egorp\source\repos\лаба язык 2\польская тема\obj\Debug\net6.0\ref\польская тема.dll
